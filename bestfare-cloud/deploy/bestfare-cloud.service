@@ -1,0 +1,32 @@
+# Best Fare cloud - licences, credits, updates and the admin panel.
+# It listens on 127.0.0.1 only; nginx (bestfare-nginx.conf) is the one door to the internet.
+# Installed as /etc/systemd/system/bestfare-cloud.service by deploy_cloud.py
+[Unit]
+Description=Best Fare cloud (licences, credits, updates)
+After=network.target
+
+[Service]
+User=bestfare
+Group=bestfare
+WorkingDirectory=/opt/bestfare-cloud
+ExecStart=/opt/bestfare-cloud/venv/bin/python -m bfcloud --data /var/lib/bestfare-cloud serve --host 127.0.0.1 --port 8780 --behind-proxy {{PUBLIC_URL_ARG}}
+Restart=on-failure
+RestartSec=3
+# the service may write in its own data folder and nowhere else; it can gain no new rights; it is small
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+PrivateDevices=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+ReadWritePaths=/var/lib/bestfare-cloud
+MemoryMax=350M
+TasksMax=64
+
+[Install]
+WantedBy=multi-user.target

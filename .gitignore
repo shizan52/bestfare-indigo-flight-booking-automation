@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Builds and local data
+dist/
+build/
+*.egg-info/
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# Secrets and private material - never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+**/OWNER_LOGIN.txt
+bestfare-cloud/secrets/*
+!bestfare-cloud/secrets/PUBLIC_KEYS.txt
+!bestfare-cloud/secrets/README.txt
+har.txt
+*.har
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db

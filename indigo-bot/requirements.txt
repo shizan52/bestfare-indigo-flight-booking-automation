@@ -1,0 +1,5 @@
+# Versions this bot was tested with - a future major release can never slip in during a deploy.
+python-telegram-bot[job-queue]>=22.8,<23
+aiosqlite>=0.22,<0.23
+aiohttp>=3.14,<4
+python-dotenv>=1.2,<2

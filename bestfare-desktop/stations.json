@@ -1,0 +1,847 @@
+{
+ "built": "2026-11-18",
+ "source": "IndiGo station search",
+ "stations": [
+  {
+   "code": "IXA",
+   "city": "Agartala",
+   "short": "Agartala",
+   "airport": "Maharaja Bir Bikram Airport",
+   "state": "TR",
+   "alt": []
+  },
+  {
+   "code": "AGX",
+   "city": "Agatti",
+   "short": "Agatti",
+   "airport": "Agatti Airport",
+   "state": "LD",
+   "alt": []
+  },
+  {
+   "code": "AGR",
+   "city": "Agra",
+   "short": "Agra",
+   "airport": "Agra Civil Airport, IAF Arjun Nagar Gate, Kheria",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "AMD",
+   "city": "Ahmedabad",
+   "short": "Ahmedabad",
+   "airport": "Sardar Vallabhbhai Patel International Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "AJL",
+   "city": "Aizawl",
+   "short": "Aizawl",
+   "airport": "Aizawl Airport",
+   "state": "MZ",
+   "alt": []
+  },
+  {
+   "code": "KQH",
+   "city": "Ajmer",
+   "short": "Ajmer",
+   "airport": "Kishangarh Airport",
+   "state": "RJ",
+   "alt": []
+  },
+  {
+   "code": "ATQ",
+   "city": "Amritsar",
+   "short": "Amritsar",
+   "airport": "Sri Guru Ram Dass Jee International Airport",
+   "state": "PB",
+   "alt": []
+  },
+  {
+   "code": "AYJ",
+   "city": "Ayodhya",
+   "short": "Ayodhya",
+   "airport": "Maharishi Valmiki International Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "IXB",
+   "city": "Bagdogra",
+   "short": "Bagdogra",
+   "airport": "Bagdogra International Airport",
+   "state": "WB",
+   "alt": []
+  },
+  {
+   "code": "BEK",
+   "city": "Bareilly",
+   "short": "Bareilly",
+   "airport": "Bareilly Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "BPM",
+   "city": "Begumpet",
+   "short": "Begumpet",
+   "airport": "Begumpet Airport",
+   "state": "TS",
+   "alt": []
+  },
+  {
+   "code": "IXG",
+   "city": "Belagavi",
+   "short": "Belagavi",
+   "airport": "Sambra Airport",
+   "state": "KA",
+   "alt": []
+  },
+  {
+   "code": "BLR",
+   "city": "Bengaluru",
+   "short": "Bengaluru",
+   "airport": "Kempegowda International Airport",
+   "state": "KA",
+   "alt": [
+    "Bangalore"
+   ]
+  },
+  {
+   "code": "BHU",
+   "city": "Bhavnagar",
+   "short": "Bhavnagar",
+   "airport": "Bhavnagar Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "BHO",
+   "city": "Bhopal",
+   "short": "Bhopal",
+   "airport": "Raja Bhoj Airport",
+   "state": "MP",
+   "alt": []
+  },
+  {
+   "code": "BBI",
+   "city": "Bhubaneswar",
+   "short": "Bhubaneswar",
+   "airport": "Biju Patnaik International Airport",
+   "state": "OR",
+   "alt": []
+  },
+  {
+   "code": "BHJ",
+   "city": "Bhuj",
+   "short": "Bhuj",
+   "airport": "Bhuj Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "BKB",
+   "city": "Bikaner",
+   "short": "Bikaner",
+   "airport": "Bikaner Airport",
+   "state": "RJ",
+   "alt": []
+  },
+  {
+   "code": "IXC",
+   "city": "Chandigarh",
+   "short": "Chandigarh",
+   "airport": "Chandigarh International Airport",
+   "state": "CH",
+   "alt": []
+  },
+  {
+   "code": "MAA",
+   "city": "Chennai",
+   "short": "Chennai",
+   "airport": "Chennai International Airport",
+   "state": "TN",
+   "alt": []
+  },
+  {
+   "code": "IXU",
+   "city": "Chhatrapati Sambhaji Nagar",
+   "short": "Chhatrapati Sambhaji Nagar",
+   "airport": "Aurangabad Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "CJB",
+   "city": "Coimbatore",
+   "short": "Coimbatore",
+   "airport": "Coimbatore International Airport",
+   "state": "TN",
+   "alt": []
+  },
+  {
+   "code": "DBR",
+   "city": "Darbhanga",
+   "short": "Darbhanga",
+   "airport": "Darbhanga Airport",
+   "state": "BR",
+   "alt": []
+  },
+  {
+   "code": "DED",
+   "city": "Dehradun",
+   "short": "Dehradun",
+   "airport": "Jolly Grant Airport",
+   "state": "UK",
+   "alt": []
+  },
+  {
+   "code": "DEL",
+   "city": "Delhi",
+   "short": "Delhi",
+   "airport": "Indira Gandhi International Airport",
+   "state": "DL",
+   "alt": [
+    "New Delhi"
+   ]
+  },
+  {
+   "code": "DGH",
+   "city": "Deoghar",
+   "short": "Deoghar",
+   "airport": "Deoghar Airport",
+   "state": "JH",
+   "alt": []
+  },
+  {
+   "code": "DHM",
+   "city": "Dharamshala",
+   "short": "Dharamshala",
+   "airport": "Dharamshala Airport",
+   "state": "HP",
+   "alt": []
+  },
+  {
+   "code": "DIB",
+   "city": "Dibrugarh",
+   "short": "Dibrugarh",
+   "airport": "Dibrugarh Airport",
+   "state": "AS",
+   "alt": []
+  },
+  {
+   "code": "DMU",
+   "city": "Dimapur",
+   "short": "Dimapur",
+   "airport": "Dimapur Airport",
+   "state": "NL",
+   "alt": []
+  },
+  {
+   "code": "DIU",
+   "city": "Diu",
+   "short": "Diu",
+   "airport": "Diu Airport",
+   "state": "DD",
+   "alt": []
+  },
+  {
+   "code": "RDP",
+   "city": "Durgapur",
+   "short": "Durgapur",
+   "airport": "Durgapur Airport",
+   "state": "WB",
+   "alt": []
+  },
+  {
+   "code": "GAY",
+   "city": "Gaya",
+   "short": "Gaya",
+   "airport": "Gaya International Airport",
+   "state": "BR",
+   "alt": []
+  },
+  {
+   "code": "HDO",
+   "city": "Ghaziabad",
+   "short": "Ghaziabad",
+   "airport": "Hindon Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "GOI",
+   "city": "Goa",
+   "short": "Goa",
+   "airport": "Goa (Dabolim) International Airport",
+   "state": "GA",
+   "alt": []
+  },
+  {
+   "code": "GDB",
+   "city": "Gondia",
+   "short": "Gondia",
+   "airport": "Gondia Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "GOP",
+   "city": "Gorakhpur",
+   "short": "Gorakhpur",
+   "airport": "Mahayogi Gorakhnath Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "GAU",
+   "city": "Guwahati",
+   "short": "Guwahati",
+   "airport": "Lokpriya Gopinath Bordoloi International Airport",
+   "state": "AS",
+   "alt": []
+  },
+  {
+   "code": "GWL",
+   "city": "Gwalior",
+   "short": "Gwalior",
+   "airport": "Rajmata Vijaya Raje Scindia Airport",
+   "state": "MP",
+   "alt": []
+  },
+  {
+   "code": "HBX",
+   "city": "Hubballi",
+   "short": "Hubballi",
+   "airport": "Hubballi Airport",
+   "state": "KA",
+   "alt": []
+  },
+  {
+   "code": "HYD",
+   "city": "Hyderabad",
+   "short": "Hyderabad",
+   "airport": "Rajiv Gandhi International Airport",
+   "state": "TS",
+   "alt": []
+  },
+  {
+   "code": "IMF",
+   "city": "Imphal",
+   "short": "Imphal",
+   "airport": "Imphal Airport",
+   "state": "MN",
+   "alt": []
+  },
+  {
+   "code": "IDR",
+   "city": "Indore",
+   "short": "Indore",
+   "airport": "Devi Ahilya Bai Holkar Airport",
+   "state": "MP",
+   "alt": []
+  },
+  {
+   "code": "HGI",
+   "city": "Itanagar",
+   "short": "Itanagar",
+   "airport": "Itanagar Airport",
+   "state": "AR",
+   "alt": []
+  },
+  {
+   "code": "JLR",
+   "city": "Jabalpur",
+   "short": "Jabalpur",
+   "airport": "Jabalpur Airport",
+   "state": "MP",
+   "alt": []
+  },
+  {
+   "code": "JGB",
+   "city": "Jagdalpur",
+   "short": "Jagdalpur",
+   "airport": "Jagdalpur Airport",
+   "state": "CG",
+   "alt": []
+  },
+  {
+   "code": "JAI",
+   "city": "Jaipur",
+   "short": "Jaipur",
+   "airport": "Jaipur International Airport",
+   "state": "RJ",
+   "alt": []
+  },
+  {
+   "code": "JSA",
+   "city": "Jaisalmer",
+   "short": "Jaisalmer",
+   "airport": "Jaisalmer Airport",
+   "state": "RJ",
+   "alt": []
+  },
+  {
+   "code": "AIP",
+   "city": "Jalandhar",
+   "short": "Jalandhar",
+   "airport": "Adampur Airport",
+   "state": "PB",
+   "alt": []
+  },
+  {
+   "code": "IXJ",
+   "city": "Jammu",
+   "short": "Jammu",
+   "airport": "Jammu Airport",
+   "state": "JK",
+   "alt": []
+  },
+  {
+   "code": "JGA",
+   "city": "Jamnagar",
+   "short": "Jamnagar",
+   "airport": "Jamnagar Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "JRG",
+   "city": "Jharsuguda",
+   "short": "Jharsuguda",
+   "airport": "Veer Surendra Sai Airport",
+   "state": "OR",
+   "alt": []
+  },
+  {
+   "code": "JDH",
+   "city": "Jodhpur",
+   "short": "Jodhpur",
+   "airport": "Jodhpur Airport",
+   "state": "RJ",
+   "alt": []
+  },
+  {
+   "code": "JRH",
+   "city": "Jorhat",
+   "short": "Jorhat",
+   "airport": "Jorhat Airport",
+   "state": "AS",
+   "alt": []
+  },
+  {
+   "code": "CDP",
+   "city": "Kadapa",
+   "short": "Kadapa",
+   "airport": "Kadapa Airport",
+   "state": "AP",
+   "alt": []
+  },
+  {
+   "code": "CNN",
+   "city": "Kannur",
+   "short": "Kannur",
+   "airport": "Kannur International Airport",
+   "state": "KL",
+   "alt": []
+  },
+  {
+   "code": "KNU",
+   "city": "Kanpur",
+   "short": "Kanpur",
+   "airport": "Kanpur International Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "HJR",
+   "city": "Khajuraho",
+   "short": "Khajuraho",
+   "airport": "Khajuraho Airport",
+   "state": "MP",
+   "alt": []
+  },
+  {
+   "code": "COK",
+   "city": "Kochi",
+   "short": "Kochi",
+   "airport": "Kochi International Airport",
+   "state": "KL",
+   "alt": [
+    "Cochin"
+   ]
+  },
+  {
+   "code": "KLH",
+   "city": "Kolhapur",
+   "short": "Kolhapur",
+   "airport": "Kolhapur Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "CCU",
+   "city": "Kolkata",
+   "short": "Kolkata",
+   "airport": "Netaji Subhash Chandra Bose International Airport",
+   "state": "WB",
+   "alt": [
+    "Calcutta"
+   ]
+  },
+  {
+   "code": "CCJ",
+   "city": "Kozhikode",
+   "short": "Kozhikode",
+   "airport": "Calicut International Airport",
+   "state": "KL",
+   "alt": []
+  },
+  {
+   "code": "KJB",
+   "city": "Kurnool",
+   "short": "Kurnool",
+   "airport": "Kurnool Airport",
+   "state": "AP",
+   "alt": []
+  },
+  {
+   "code": "IXL",
+   "city": "Leh",
+   "short": "Leh",
+   "airport": "Leh Airport",
+   "state": "LA",
+   "alt": []
+  },
+  {
+   "code": "LKO",
+   "city": "Lucknow",
+   "short": "Lucknow",
+   "airport": "Chaudhary Charan Singh International Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "LUH",
+   "city": "Ludhiana",
+   "short": "Ludhiana",
+   "airport": "Ludhiana Airport",
+   "state": "PB",
+   "alt": []
+  },
+  {
+   "code": "IXM",
+   "city": "Madurai",
+   "short": "Madurai",
+   "airport": "Madurai Airport",
+   "state": "TN",
+   "alt": []
+  },
+  {
+   "code": "IXE",
+   "city": "Mangaluru",
+   "short": "Mangaluru",
+   "airport": "Mangalore International Airport",
+   "state": "KA",
+   "alt": []
+  },
+  {
+   "code": "BOM",
+   "city": "Mumbai",
+   "short": "Mumbai",
+   "airport": "Chhatrapati Shivaji Maharaj International Airport",
+   "state": "MH",
+   "alt": [
+    "Bombay"
+   ]
+  },
+  {
+   "code": "MYQ",
+   "city": "Mysuru",
+   "short": "Mysuru",
+   "airport": "Mysuru Airport",
+   "state": "KA",
+   "alt": []
+  },
+  {
+   "code": "NAG",
+   "city": "Nagpur",
+   "short": "Nagpur",
+   "airport": "Dr. Babasaheb Ambedkar Nagpur International Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "ISK",
+   "city": "Nashik",
+   "short": "Nashik",
+   "airport": "Nashik Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "NMI",
+   "city": "Navi Mumbai",
+   "short": "Navi Mumbai",
+   "airport": "Navi Mumbai Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "DXN",
+   "city": "Noida",
+   "short": "Noida",
+   "airport": "Noida International Airport",
+   "state": "UP",
+   "alt": []
+  },
+  {
+   "code": "GOX",
+   "city": "North Goa",
+   "short": "North Goa",
+   "airport": "Manohar International Airport (Mopa)",
+   "state": "GA",
+   "alt": []
+  },
+  {
+   "code": "PGH",
+   "city": "Pantnagar",
+   "short": "Pantnagar",
+   "airport": "Pantnagar Airport",
+   "state": "UK",
+   "alt": []
+  },
+  {
+   "code": "PAT",
+   "city": "Patna",
+   "short": "Patna",
+   "airport": "Jay Prakash Narayan International Airport",
+   "state": "BR",
+   "alt": []
+  },
+  {
+   "code": "IXD",
+   "city": "Prayagraj",
+   "short": "Prayagraj",
+   "airport": "Prayagraj Airport",
+   "state": "UP",
+   "alt": [
+    "Allahabad"
+   ]
+  },
+  {
+   "code": "PNY",
+   "city": "Puducherry",
+   "short": "Puducherry",
+   "airport": "Puducherry Airport",
+   "state": "PY",
+   "alt": []
+  },
+  {
+   "code": "PNQ",
+   "city": "Pune",
+   "short": "Pune",
+   "airport": "Pune International Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "PXN",
+   "city": "Purnea",
+   "short": "Purnea",
+   "airport": "Purnea Airport",
+   "state": "BR",
+   "alt": []
+  },
+  {
+   "code": "RPR",
+   "city": "Raipur",
+   "short": "Raipur",
+   "airport": "Swami Vivekananda Airport",
+   "state": "CG",
+   "alt": []
+  },
+  {
+   "code": "RJA",
+   "city": "Rajahmundry",
+   "short": "Rajahmundry",
+   "airport": "Rajahmundry Airport",
+   "state": "AP",
+   "alt": []
+  },
+  {
+   "code": "HSR",
+   "city": "Rajkot",
+   "short": "Rajkot",
+   "airport": "Rajkot International Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "RAJ",
+   "city": "Rajkot",
+   "short": "Rajkot",
+   "airport": "Rajkot Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "IXR",
+   "city": "Ranchi",
+   "short": "Ranchi",
+   "airport": "Birsa Munda Airport",
+   "state": "JH",
+   "alt": []
+  },
+  {
+   "code": "REW",
+   "city": "Rewa",
+   "short": "Rewa",
+   "airport": "Rewa Airport",
+   "state": "MP",
+   "alt": []
+  },
+  {
+   "code": "SXV",
+   "city": "Salem",
+   "short": "Salem",
+   "airport": "Salem Airport",
+   "state": "TN",
+   "alt": []
+  },
+  {
+   "code": "SHL",
+   "city": "Shillong",
+   "short": "Shillong",
+   "airport": "Shillong Airport",
+   "state": "ML",
+   "alt": []
+  },
+  {
+   "code": "SAG",
+   "city": "Shirdi",
+   "short": "Shirdi",
+   "airport": "Shirdi International Airport",
+   "state": "MH",
+   "alt": []
+  },
+  {
+   "code": "RQY",
+   "city": "Shivamogga",
+   "short": "Shivamogga",
+   "airport": "Kuvempu Airport",
+   "state": "KA",
+   "alt": []
+  },
+  {
+   "code": "IXS",
+   "city": "Silchar",
+   "short": "Silchar",
+   "airport": "Silchar Airport",
+   "state": "AS",
+   "alt": []
+  },
+  {
+   "code": "IXZ",
+   "city": "Sri Vijaya Puram",
+   "short": "Sri Vijaya Puram",
+   "airport": "Veer Savarkar International Airport (Port Blair)",
+   "state": "AN",
+   "alt": []
+  },
+  {
+   "code": "SXR",
+   "city": "Srinagar",
+   "short": "Srinagar",
+   "airport": "Srinagar International Airport",
+   "state": "JK",
+   "alt": []
+  },
+  {
+   "code": "STV",
+   "city": "Surat",
+   "short": "Surat",
+   "airport": "Surat International Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "TRV",
+   "city": "Thiruvananthapuram",
+   "short": "Thiruvananthapuram",
+   "airport": "Thiruvananthapuram International Airport",
+   "state": "KL",
+   "alt": [
+    "Trivandrum"
+   ]
+  },
+  {
+   "code": "TRZ",
+   "city": "Tiruchirappalli",
+   "short": "Tiruchirappalli",
+   "airport": "Tiruchirappalli International Airport",
+   "state": "TN",
+   "alt": []
+  },
+  {
+   "code": "TIR",
+   "city": "Tirupati",
+   "short": "Tirupati",
+   "airport": "Tirupati International Airport",
+   "state": "AP",
+   "alt": []
+  },
+  {
+   "code": "TCR",
+   "city": "Tuticorin",
+   "short": "Tuticorin",
+   "airport": "Thoothukudi Airport",
+   "state": "TN",
+   "alt": []
+  },
+  {
+   "code": "UDR",
+   "city": "Udaipur",
+   "short": "Udaipur",
+   "airport": "Maharana Pratap Airport",
+   "state": "RJ",
+   "alt": []
+  },
+  {
+   "code": "BDQ",
+   "city": "Vadodara",
+   "short": "Vadodara",
+   "airport": "Vadodara Airport",
+   "state": "GJ",
+   "alt": []
+  },
+  {
+   "code": "VNS",
+   "city": "Varanasi",
+   "short": "Varanasi",
+   "airport": "Lal Bahadur Shastri International Airport",
+   "state": "UP",
+   "alt": [
+    "Banaras",
+    "Kashi"
+   ]
+  },
+  {
+   "code": "VGA",
+   "city": "Vijayawada",
+   "short": "Vijayawada",
+   "airport": "Vijayawada International Airport",
+   "state": "AP",
+   "alt": []
+  },
+  {
+   "code": "VTZ",
+   "city": "Visakhapatnam",
+   "short": "Visakhapatnam",
+   "airport": "Alluri Sitarama Raju International Airport",
+   "state": "AP",
+   "alt": []
+  }
+ ]
+}
